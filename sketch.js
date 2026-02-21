@@ -9,7 +9,8 @@
 //  <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
 // ============================================================
 
-const MODEL_URL = "https://teachablemachine.withgoogle.com/models/43prg9ZF6/";
+const MODEL_URL = "https://teachablemachine.withgoogle.com/models/i4YbLu605/"
+;
 
 // ─── Teachable Machine State ────────────────────────────────
 let tmModel, tmWebcam;
